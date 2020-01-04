@@ -8,7 +8,7 @@ Just put `NLogFactory.cs` into your project and configure it by `NLog.config`.
 
 # Dependencies
 
-- .NET Standard Library 2.0.3
+- .NET Core 2.0+
 - NLog 4.6.8
 - UnityEngine (DLL included in 2018.4.14f1)
 
